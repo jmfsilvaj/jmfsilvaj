@@ -34,4 +34,5 @@
 📬 Get in Touch:
 
 💼 Let's connect on LinkedIn - [João Silva](https://www.linkedin.com/in/joao-silva-8625034a/)
+
 "Every day is a chance to learn something new in the journey of data!" 💡
