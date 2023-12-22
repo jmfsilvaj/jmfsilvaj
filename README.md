@@ -5,7 +5,7 @@
 🔍 About Me:
 
 🐍 Python Enthusiast - Exploring the power of programming in data analysis.
-📚 SQL Beginner - Diving into the world of databases and queries.
+<p>📚 SQL Beginner - Diving into the world of databases and queries.
 🤖 Keen Interest in Machine Learning - Eager to learn how machines can learn from data.
 🌐 Passionate about using data for meaningful insights and solutions.
 
