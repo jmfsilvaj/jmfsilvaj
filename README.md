@@ -9,8 +9,8 @@
 <p>🤖 Keen Interest in Machine Learning - Eager to learn how machines can learn from data.<p>
 <p>🌐 Passionate about using data for meaningful insights and solutions.<p>
 <p><p>
-<p>📚 Currently Learning:<p>
-<p><p>
+<p> ## Currently Learning:<p>
+<p></p>
 <p>🛢️ SQL Basics - Mastering SELECTs, JOINs, and more.<p>
 <p>🐍 Strengthening my Python skills, especially for data manipulation.<p>
 <p>🤔 Understanding the fundamentals of data structures and algorithms.<p>
