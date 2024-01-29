@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm João! 🌟
 
-## 📊 Aspiring Data Scientist | 🚀 Embarking on a Data Adventure
+## 📊 Aspiring Data Scientist | 🚀 Embarking on a Data Adventure | 🌩️ Cloud Engineer Aspirant - Aiming to acquire AWS Certified Solutions Architect ‒ Associate certification.
 
 ### About Me:
 
@@ -8,18 +8,21 @@
 - 📚 **SQL Beginner** - Diving into the world of databases and queries.
 - 🤖 **Keen Interest in Machine Learning** - Eager to learn how machines can learn from data.
 - 🌐 **Passionate about using data for meaningful insights and solutions.**
-
+- 🌩️ **Exploring Cloud Technologies** - Learning about AWS services and architecture.
+- 
 ### Currently Learning:
 
 - 🛢️ **SQL Basics** - Mastering SELECTs, JOINs, and more.
 - 🐍 **Strengthening my Python skills**, especially for data manipulation.
 - 🤔 **Understanding the fundamentals of data structures and algorithms.**
+- 🌩️ **Delving into AWS fundamentals and architecture principles for the AWS Certified Solutions Architect ‒ Associate exam.**
 
 ### Tools & Technologies:
 
 - 💻 Starting out with **Python**
 - 📊 Eager to explore **pandas, NumPy, and matplotlib**
 - 🗄️ Stepping into **SQL**
+- 🌩️ **Familiarizing with AWS Services**
 
 ### Looking For:
 
@@ -30,6 +33,7 @@
 
 - 📈 Build a small **portfolio of Python and SQL projects**.
 - 🌍 Engage with the **data science community** for learning and growth.
+- 🌩️ Successfully pass the AWS Certified Solutions Architect ‒ Associate exam.
 
 ### Get in Touch:
 
