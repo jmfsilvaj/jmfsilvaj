@@ -9,7 +9,7 @@
 - 🤖 **Keen Interest in Machine Learning** - Eager to learn how machines can learn from data.
 - 🌐 **Passionate about using data for meaningful insights and solutions.**
 - 🌩️ **Exploring Cloud Technologies** - Learning about AWS services and architecture.
-- 
+
 ### Currently Learning:
 
 - 🛢️ **SQL Basics** - Mastering SELECTs, JOINs, and more.
