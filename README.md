@@ -12,9 +12,9 @@
 
 ### Currently Learning:
 
-- 🛢️ **SQL Basics** - Mastering SELECTs, JOINs, and more.
-- 🐍 **Strengthening my Python skills**, especially for data manipulation.
-- 🤔 **Understanding the fundamentals of data structures and algorithms.**
+- 🛢️ **Advanced Python Proficiency:** Skilled in writing efficient, robust Python code for a variety of applications.
+- 🐍 **Data Science & Machine Learning Libraries:** Proficient with NumPy, pandas, and matplotlib for data manipulation and visualization. Additionally, experienced with scikit-learn for machine learning, Keras and TensorFlow for deep learning projects.
+- 🤔 **SQL Knowledge:** Capable of handling database management and querying with SQL, understanding the fundamentals of data storage, retrieval, and manipulation.
 - 🌩️ **Delving into AWS fundamentals and architecture principles for the AWS Certified Solutions Architect ‒ Associate exam.**
 
 ### Tools & Technologies:
